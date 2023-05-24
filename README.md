@@ -1,7 +1,9 @@
 # aicup_badminton
-aicup badminton contest
+(aicup badminton contest)
 
 TEAM_3006
+
+TrackNetV2 與 NFL- MultiPose Estimation using YOLOv8 & Mediapipe 在文件處有放置連結
 
 catch_ori.py：將原始影像加上 TrackNet 出來後的羽球點座標
 
