@@ -30,3 +30,5 @@ train_video_to_img：處理 training data，在經過骨架偵測之後，將所
 using_event.py：執行量產動作，每次都會呼叫 event.py 程式
 
 video_to_img：最一開始將 training data 的所有影片轉成影像
+
+badminton-train.ipynb：模型訓練
